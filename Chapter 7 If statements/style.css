@@ -1,0 +1,16 @@
+#mySubmit{
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 120px;
+    padding: 5px;
+}
+
+#mySubmit:hover{
+    background-color: hsl(0, 100%, 65%);
+}
+
+#result{
+    font-size: 25px;
+    background-color: antiquewhite;
+    margin-left: 2em;
+}

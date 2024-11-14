@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+#myLabel{
+    font-size: 5em;
+    text-align: center;
+}
+
+#myButton{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: hsl(22, 100%, 68%);
+}
+
+#myButton:hover{
+    background-color: hsl(22, 96%, 56%);
+    cursor: pointer;
+}

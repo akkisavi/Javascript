@@ -1,0 +1,18 @@
+#mySub{
+    font-size: 25px;
+}
+
+.card{
+    font-size: 25px;
+}
+
+#mySubmit{
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+
+#mySubmit:hover{
+    cursor: pointer;
+    background-color: rgb(165, 213, 255);
+}
